@@ -5,8 +5,13 @@ links de utilidad :
 
 
 https://r-graph-gallery.com/
+
 https://www.data-to-art.com/
+
 https://r-charts.com/
+
 https://r-graph-gallery.com/all-graphs.html
+
 https://plotly.com/r/basic-charts/
+
 https://shiny.posit.co/r/gallery/
