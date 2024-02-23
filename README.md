@@ -15,3 +15,5 @@ https://r-graph-gallery.com/all-graphs.html
 https://plotly.com/r/basic-charts/
 
 https://shiny.posit.co/r/gallery/
+
+https://shiny.posit.co/r/gallery/widgets/widget-gallery/
