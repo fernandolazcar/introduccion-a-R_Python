@@ -18,6 +18,10 @@ https://shiny.posit.co/r/gallery/
 
 https://shiny.posit.co/r/gallery/widgets/widget-gallery/
 
+guia markdown
+
+https://rmarkdown.rstudio.com/authoring_basics.html
+
 # introduccion  a Python 
 
 Python es un lenguaje de programación de alto nivel, conocido por su legibilidad del código. Aquí tienes algunas de sus características principales:
